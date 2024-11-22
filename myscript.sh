@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "Hello, world!"
-echo "Change on GitHub"
+echo "Edit on my computer"
